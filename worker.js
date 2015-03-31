@@ -3,8 +3,7 @@ var request = require('request');
 var _ = require('underscore');
 
 var urls = [
-  "http://snips.mew.io",
-  "http://tigerli.ly"
+  "http://statspl.com"
 ];
 
 var ping = function() {
